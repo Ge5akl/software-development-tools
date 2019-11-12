@@ -1,0 +1,11 @@
+C:\Users\Desktop\task\3.1>jest
+PASS ./test.js
+√ have to "c b a" (4ms)
+√ have to "c b a" (1ms)
+√ have to "c b a" (1ms)
+
+Test Suites: 1 passed, 1 total
+Tests: 3 passed, 3 total
+Snapshots: 0 total
+Time: 3.524s
+Ran all test suites.
